@@ -1,3 +1,4 @@
+@auth
 
 	<nav class="relative px-4 py-4 flex justify-between items-center bg-white">
 		<a class="text-3xl font-bold leading-none" href="#">
@@ -88,7 +89,8 @@
 			</div>
 		</nav>
 	</div>
-
+	
+	@endauth
 
 <script>
 // Burger menus
